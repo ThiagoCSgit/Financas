@@ -1,0 +1,15 @@
+.row{
+
+}
+
+.col{
+    padding: 10px 0;
+
+}
+
+.div-table{
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #ffffff;
+}

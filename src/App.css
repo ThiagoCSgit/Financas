@@ -1,0 +1,22 @@
+.container{
+
+}
+
+.header{
+  background-color: darkblue;
+  height: 150px;
+  text-align: center;
+}
+
+.text{
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  padding-top: 30px;
+}
+
+.body{
+  margin: auto;
+  max-width: 980px;
+  margin-bottom: 50px;
+}
